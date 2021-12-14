@@ -1,0 +1,10 @@
+C:\Users\ucenik\source\repos\Vježba\Vježba\bin\Debug\Vježba.exe.config
+C:\Users\ucenik\source\repos\Vježba\Vježba\bin\Debug\Vježba.exe
+C:\Users\ucenik\source\repos\Vježba\Vježba\bin\Debug\Vježba.pdb
+C:\Users\ucenik\source\repos\Vježba\Vježba\obj\Debug\MojaPrvaWinFormsApp.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Vježba\Vježba\obj\Debug\Vježba.Form1.resources
+C:\Users\ucenik\source\repos\Vježba\Vježba\obj\Debug\Vježba.Properties.Resources.resources
+C:\Users\ucenik\source\repos\Vježba\Vježba\obj\Debug\MojaPrvaWinFormsApp.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\Vježba\Vježba\obj\Debug\MojaPrvaWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Vježba\Vježba\obj\Debug\Vježba.exe
+C:\Users\ucenik\source\repos\Vježba\Vježba\obj\Debug\Vježba.pdb
